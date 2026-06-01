@@ -3,8 +3,6 @@
 <!--
 **chenyuzhang199705150516-cpu/chenyuzhang199705150516-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 # Welcome to My GitHub Profile 👋
 
 Hi! I'm a passionate developer committed to building impactful software and contributing to the open-source community. This is where I share my projects, ideas, and collaborations.
